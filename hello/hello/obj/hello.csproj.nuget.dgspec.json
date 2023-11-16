@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibuta\\git-actually\\helloapp-black\\hello\\hello\\hello.csproj": {}
+    "C:\\Users\\ibuta\\git-actually\\helloapp-white\\hello\\hello\\hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibuta\\git-actually\\helloapp-black\\hello\\hello\\hello.csproj": {
+    "C:\\Users\\ibuta\\git-actually\\helloapp-white\\hello\\hello\\hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibuta\\git-actually\\helloapp-black\\hello\\hello\\hello.csproj",
+        "projectUniqueName": "C:\\Users\\ibuta\\git-actually\\helloapp-white\\hello\\hello\\hello.csproj",
         "projectName": "hello",
-        "projectPath": "C:\\Users\\ibuta\\git-actually\\helloapp-black\\hello\\hello\\hello.csproj",
+        "projectPath": "C:\\Users\\ibuta\\git-actually\\helloapp-white\\hello\\hello\\hello.csproj",
         "packagesPath": "C:\\Users\\ibuta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibuta\\git-actually\\helloapp-black\\hello\\hello\\obj\\",
+        "outputPath": "C:\\Users\\ibuta\\git-actually\\helloapp-white\\hello\\hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibuta\\AppData\\Roaming\\NuGet\\NuGet.Config",
